@@ -7,4 +7,4 @@ def test_dagatal2():
     assert Dagatal(2) == 28
     
 def test_dagatal3():
-    assert Dagatal(3) == 30
+    assert Dagatal(3) == 31
